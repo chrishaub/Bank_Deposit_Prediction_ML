@@ -1,1 +1,5 @@
-# Bank_Deposit_Prediction_ML
+# Bank Deposit Prediction Using Machine Learning
+
+For this project, we chose to use the "Bank Marketing Data Set" that is stored in the Machine Learning Repository by the University of California, Irvine. The initial purpose of the data was to predict whether a customer would subscribe to a long-term deposit, which would allow the institution to better pursue those customers specifically. The data set contains 21 attributes and 41,188 instances collected via a telephone marketing campaign led by a “Portuguese banking institution” (Moro et al June 2014). While the data set only contains one prescribed target outcome (Long Term Deposits), we chose to additionally perform a second predicition. The second prediction we decided to create was what level of education (i.e., college and above, or highschool and below) is associated with increased potential of taking a long-term deposit.
+
+To predict our two desired outcomes, we constructed models using our chosen predictors from the available dataset. We hypothesized that success from our models would increase the efficiency of our telemarketing team regarding long-term deposits. In addition, the type of customer who is likely to take a long-term deposit can be readily distinguished and targeted, thereby increasing the number of long-term deposits held by the institution.
